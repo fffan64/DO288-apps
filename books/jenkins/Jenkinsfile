@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "jonathan-vacherat-axa-co-books-dev"
-        STAGE_PROJECT = "jonathan-vacherat-axa-co-books-stage"
+        DEV_PROJECT = "jonathan-vacherat-axa-co-jp-books-dev"
+        STAGE_PROJECT = "jonathan-vacherat-axa-co-jp-books-stage"
         APP_GIT_URL = "https://github.com/fffan64/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/nodejs"
 
